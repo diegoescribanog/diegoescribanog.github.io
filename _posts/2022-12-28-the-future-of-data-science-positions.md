@@ -1,2 +1,4 @@
 # The future of Data Science positions: a look at the evolution of remote career options
 ---
+
+The field of data science has rapidly evolved over the past decade, and with it, so have the options for data science professionals looking to build a career. In the past, data science jobs were largely confined to traditional office settings, with employees commuting to a central location to work alongside their colleagues. However, in recent years, the rise of remote work has opened up a new world of possibilities for data science professionals.  COVID-19 pandemic has further solidified remote positions as a viable and attractive option, leading to unprecedented access to data science jobs regardless of geographic location.
