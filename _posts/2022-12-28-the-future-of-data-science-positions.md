@@ -14,7 +14,7 @@ Figure 1: This is an image
 Y luego llegó Diego 
 
 <figure>
-<img src="https://github.com/diegoescribanog/DSND-Project-1/blob/main/Images/Q1_Remote_percentage_evolution.png?raw=True" alt="Trulli">
+<img src="https://github.com/diegoescribanog/DSND-Project-1/blob/main/Images/Q1_Remote_percentage_evolution.png?raw=True" alt="Trulli" class="center">
 <figcaption align = "center"><b>Fig.1 - Evolution of remote work</b></figcaption>
 </figure>
 
