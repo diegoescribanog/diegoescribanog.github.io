@@ -14,6 +14,11 @@ Figure 1: This is an image
 Y luego llegó Diego 
 
 <figure>
-<img src="https://images.unsplash.com/photo-1549740425-5e9ed4d8cd34?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwzOTU0NTB8fGVufDB8fHw%3D&w=1000&q=80" alt="Trulli" style="width:100%">
-<figcaption align = "center"><b>Fig.1 - 4K Mountains Wallpaper</b></figcaption>
+<img src="https://github.com/diegoescribanog/DSND-Project-1/blob/main/Images/Q1_Remote_percentage_evolution.png?raw=True" alt="Trulli">
+<figcaption align = "center"><b>Fig.1 - Evolution of remote work</b></figcaption>
+</figure>
+
+<figure>
+<img src="https://github.com/diegoescribanog/DSND-Project-1/blob/main/Images/Q3_Mean_salary_per_continent.png?raw=True" alt="Trulli">
+<figcaption align = "center"><b>Fig.2 - Mean salary per continent</b></figcaption>
 </figure>
